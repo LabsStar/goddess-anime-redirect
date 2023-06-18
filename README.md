@@ -9,10 +9,4 @@ This is just used as a redirector for profiles. Like [https://otaku.bio/hylia](h
 
 
 ## Current Domains
-> otaku.bio
-
 > weareweebs.me
-
-> unfatal.xyz 
-
-> nanoha.live
