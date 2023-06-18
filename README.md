@@ -3,6 +3,16 @@
 
 Goddess Anime Cards is a website / bot where you can trade anime cards with other users. You can also buy cards from the shop and sell your own cards to other users.
 
-# What is the purpose?
+## What is the purpose?
 
 This is just used as a redirector for profiles. Like [https://otaku.bio/hylia](https://otaku.bio/hylia) will take you to [@hylia.dev](https://goddessanime.com/user/547923574833545226)'s profile
+
+
+## Current Domains
+> otaku.bio
+
+> weareweebs.me
+
+> unfatal.xyz 
+
+> nanoha.live
