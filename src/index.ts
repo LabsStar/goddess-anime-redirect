@@ -19,7 +19,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get("/:username", async (req, res) => {
+app.get("/:username?", async (req, res) => {
     const username = req.params.username;
 
     if (!username) return res.redirect("https://goddessanime.com")
